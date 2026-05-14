@@ -1,0 +1,27 @@
+ 1  pwd
+    2  ssh keygen sabelomahlangu2@icloud.com
+    3  ssh sabelomahlangu2@icloud.com
+    4  ssh: connect to host sabelomahlangu2@icloud.com
+    5  ssh connect to host sabelomahlangu2@icloud.com
+    6  ssh keygen sabelomahlangu2@icloud.com
+    7  ssh-keygen sabelomahlangu2@icloud.com
+    8  ssh-keygen -R sabelomahlangu2@icloud.com
+    9  ssh-keygen -r sabelomahlangu2@icloud.com
+   10  ssh-keygen 'sabelomahlangu2@icloud.com'
+   11  ssh keygen
+   12  ssh-keygen
+   13  ssh-keygen -r sabelomahlangu2@icloud.com
+   14  ssh-keygen -R sabelomahlangu2@icloud.com
+   15  git clone git@github.com:MahlanguS96/student_sub_system.git
+   16  git clone https://github.com/MahlanguS96/student_sub_system.git
+   17  cd github.com/MahlanguS96/student_sub_system.git
+   18  cd student_sub_system
+   19  code .
+   20  touch index.html
+   21  touch about.html
+   22  touch history.txt
+   23  git init
+   24  git add .
+   25  commit -m "created html and txt files"
+   26  git commit -m "created html and txt files"
+   27  history
